@@ -1,5 +1,5 @@
-# Android_Project_Tic-Tac-Toe SEE PICTURE DIAGRAM OF THE APPS UI
-A game of tic-tac-toe is always fun.I created it from scratch.
+# Android_Project_Tic-Tac-Toe 
+A game of tic-tac-toe is always fun.I created it from scratch.See the picture diagram of the apps UI. The code and APK is saved to master branch. 
 
 
 ![Screenshot_20211102-180612](https://user-images.githubusercontent.com/36454034/140119113-fb41f0f2-f6d0-4e56-b9fb-2cd1c9640435.jpg)
