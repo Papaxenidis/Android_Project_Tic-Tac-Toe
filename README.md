@@ -1,4 +1,4 @@
-# Android_Project_Tic-Tac-Toe
+# Android_Project_Tic-Tac-Toe SEE PICTURE DIAGRAM OF THE APPS UI
 A game of tic-tac-toe is always fun.I created it from scratch.
 
 
